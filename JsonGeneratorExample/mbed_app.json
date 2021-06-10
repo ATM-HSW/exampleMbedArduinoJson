@@ -1,0 +1,14 @@
+{
+  "macros": [
+    "MBED_HEAP_STATS_ENABLED=1"
+  ],
+  "target_overrides": {
+    "*": {
+    	"platform.all-stats-enabled": true,
+      "platform.crash-capture-enabled": false,
+      "platform.stdio-convert-newlines": false,
+      "platform.stdio-baud-rate": 115200,
+      "target.printf_lib": "std"
+    }
+  }
+}

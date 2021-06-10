@@ -1,0 +1,9 @@
+QSPI2.uv*
+QSPI.uv*
+.mbed
+*.bak
+GettingStarted.html
+mbed_config.h
+BUILD/
+DebugConfig/
+EventRecorderStub.scvd

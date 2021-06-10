@@ -1,6 +1,3 @@
-[submodule "libMbedArduinoJson"]
-	path = libMbedArduinoJson
-	url = git@github.com:ATM-HSW/libMbedArduinoJson.git
 [submodule "StringExample/libMbedArduinoJson"]
 	path = StringExample/libMbedArduinoJson
 	url = git@github.com:ATM-HSW/libMbedArduinoJson.git
